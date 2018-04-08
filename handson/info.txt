@@ -1,0 +1,14 @@
+level0_a : asks data from raw input
+level0_b : checks if data is an integer using try / except
+level0_c : checks if data is inside the range using "if"
+
+level1_a : there are two types of dictionaries, one for each color that defines its
+	   rgb code and another with the list of available colors.
+	   ask the name of the color from raw input.
+level1_b : the same than 1_a but checks if the color exists
+level1_c : TO DO, only for braves!! have the colors in a external file and add the non existing ones.
+
+level2_1_a : lights and swiches off red, green and blue colors using for loops
+level2_2_a : reads the data comming from Arduino (pot variable)
+
+level3:	c'mon! You're a Jedy Master!! 
